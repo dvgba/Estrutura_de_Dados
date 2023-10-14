@@ -11,6 +11,7 @@ O objetivo principal deste repositório é proporcionar um recurso de estudo par
 | Estrutura   | Linguagens     |
 | ----------- | -------------- |
 | Bubble Sort | Python, Java |
+| Selection Sort | Python|
 
 Contribuições
 Encorajamos contribuições da comunidade! Se você tem conhecimento em estruturas de dados que gostaria de compartilhar, sinta-se à vontade para fazer um fork deste repositório e enviar um pull request. Novas implementações, correções de bugs, exemplos de uso ou até mesmo artigos educacionais são muito bem-vindos.
